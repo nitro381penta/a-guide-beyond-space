@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # A GUIDE BEYOND SPACE
 
 ![A Guide Beyond Space](beyond-space.png)
@@ -75,11 +73,5 @@ This project explores how XR can expand traditional museum mediation by translat
 
 Julia Nuss
 AR/VR/XR Development & Design
-=======
-# a-guide-beyond-space
-A Guide Beyond Space is an XR museum experience that reimagines geometric abstraction through immersive spatial storytelling, interactive artwork extensions, and a conversational AI guide.
->>>>>>> 40f0411502ae8949b994143fefc48fe3c42a9082
-=======
-# a-guide-beyond-space
-A Guide Beyond Space is an XR museum experience that reimagines geometric abstraction through immersive spatial storytelling, interactive artwork extensions, and a conversational AI guide.
->>>>>>> 40f0411502ae8949b994143fefc48fe3c42a9082
+
+
